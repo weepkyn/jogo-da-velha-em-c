@@ -1,0 +1,3 @@
+C:/Users/annap/CLionProjects/jogo-da-velha/cmake-build-debug/CMakeFiles/jogo_da_velha.dir
+C:/Users/annap/CLionProjects/jogo-da-velha/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/annap/CLionProjects/jogo-da-velha/cmake-build-debug/CMakeFiles/rebuild_cache.dir
